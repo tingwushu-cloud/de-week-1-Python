@@ -92,3 +92,7 @@ This page mirrors our Linux/macOS guides: **download/winget → install → PATH
 [3]: https://winget.run/pkg/Microsoft/VisualStudioCode "Download and install Microsoft Visual Studio Code ..."
 [4]: https://code.visualstudio.com/docs/configure/command-line "Command Line Interface (CLI)"
 [5]: https://microsoft.github.io/vscode-essentials/en/01-getting-started.html "Getting started with VS Code · Visual Studio Code"
+
+
+<img width="410" height="324" alt="image" src="https://github.com/user-attachments/assets/d947bfc5-3e0d-486d-81a2-b52705b2ce80" />
+
